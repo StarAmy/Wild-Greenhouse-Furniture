@@ -2,7 +2,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Small Decorative Cloche",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/smallcloches.png:0",
@@ -246,7 +246,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Small Waterfall Cloche",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/smallcloches.png:21@10, assets/smallcloches.png:22@10, assets/smallcloches.png:23@10",

@@ -25,6 +25,14 @@
    },
    {
       "$ItemType":"ContentIndex",
+      "FilePath":"Json/insectmounts.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/fishmounts.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
       "FilePath":"Json/jars.json"
    },
    {

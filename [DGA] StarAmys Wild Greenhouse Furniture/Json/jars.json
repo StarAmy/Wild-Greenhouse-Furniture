@@ -2,7 +2,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Jar of Fireflies",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/fireflyjar.png:0@30, assets/fireflyjar.png:1@30, assets/fireflyjar.png:2@30, assets/fireflyjar.png:3@30, assets/fireflyjar.png:4@30",

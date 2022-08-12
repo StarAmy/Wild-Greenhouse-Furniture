@@ -48,7 +48,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Seedling Rack",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/shelving.png:2",

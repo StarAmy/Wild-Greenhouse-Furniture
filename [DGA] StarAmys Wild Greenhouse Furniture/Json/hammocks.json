@@ -49,4 +49,52 @@
 			"Value": "staramy.furniture/Vertical Rope Hammock"
 		}
 	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Horizontal Decorative Hammock",
+		"Type": "Decoration",
+		"BedType": "Single",
+		"Configurations": [
+			{
+				"Texture": "assets/horizontaldecorativehammock.png",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Horizontal Decorative Hammock"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Vertical Decorative Hammock",
+		"Type": "Decoration",
+		"BedType": "Single",
+		"Configurations": [
+			{
+				"Texture": "assets/verticaldecorativehammock.png",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Vertical Decorative Hammock"
+		}
+	},
 ]

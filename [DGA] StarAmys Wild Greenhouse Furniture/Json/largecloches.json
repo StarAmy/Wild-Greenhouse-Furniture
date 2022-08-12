@@ -2,7 +2,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Large Decorative Cloche",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/largecloches.png:0",
@@ -100,7 +100,7 @@
 	{
 		"$ItemType": "Furniture",
 		"ID": "Large Waterfall Cloche",
-		"Type": "Decoration",
+		"Type": "Lamp",
 		"Configurations": [
 			{
 				"Texture": "assets/largecloches.png:16@10, assets/largecloches.png:17@10, assets/largecloches.png:18@10",
