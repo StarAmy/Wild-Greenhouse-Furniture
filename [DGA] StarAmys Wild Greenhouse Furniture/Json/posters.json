@@ -70,7 +70,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 400,
 		"Item":  
 		{

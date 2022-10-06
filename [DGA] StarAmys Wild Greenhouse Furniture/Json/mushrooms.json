@@ -48,13 +48,17 @@
 				"Texture": "assets/smallmushroomplanter.png:8",
 				"DisplaySize": { "X": 1, "Y": 2 },
 				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/smallmushroomplanter.png:9",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
 			}
 		]
 	},	
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 420,
 		"Item":  
 		{
@@ -77,7 +81,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 160,
 		"Item":  
 		{

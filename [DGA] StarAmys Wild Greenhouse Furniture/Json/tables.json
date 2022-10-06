@@ -14,7 +14,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 300,
 		"Item":  
 		{
@@ -37,7 +36,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 500,
 		"Item":  
 		{
@@ -60,7 +58,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 800,
 		"Item":  
 		{

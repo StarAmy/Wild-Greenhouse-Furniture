@@ -14,7 +14,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -37,7 +36,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -60,12 +58,33 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Seedling Rack"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sprout Rack",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"Texture": "assets/shelving.png:9",
+				"DisplaySize": { "X": 3, "Y": 4 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Sprout Rack"
 		}
 	},
 	{
@@ -83,7 +102,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -106,7 +124,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -129,7 +146,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -152,7 +168,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{

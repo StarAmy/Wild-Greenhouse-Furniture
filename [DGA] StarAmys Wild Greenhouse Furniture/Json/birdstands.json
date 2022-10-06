@@ -312,7 +312,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Seagull on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 	{
@@ -323,7 +322,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Crow on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 	{
@@ -334,7 +332,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Horned Owl on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 	{
@@ -345,7 +342,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Hyacinth Macaw on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 3000,
 	},
 	{
@@ -356,7 +352,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Scarlet Macaw on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 3000,
 	},
 	{
@@ -367,7 +362,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Military Macaw on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 3000,
 	},
 	{
@@ -378,7 +372,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Blue and Gold Macaw on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 3000,
 	},
 		{
@@ -389,7 +382,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Toucan on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -400,7 +392,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Cockatoo on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -411,7 +402,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Kestrel on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -422,7 +412,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Sun Conure on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -433,7 +422,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Barn Owl on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -444,7 +432,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Meyers Parrot on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -455,7 +442,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/African Grey Parrot on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -466,7 +452,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Pelican on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	},
 		{
@@ -477,7 +462,6 @@
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Lorikeet on Stand"
 		},
-		"MaxSold": 3,
 		"Cost": 2000,
 	}
 ]

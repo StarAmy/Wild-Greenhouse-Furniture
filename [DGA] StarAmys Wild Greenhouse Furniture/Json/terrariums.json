@@ -15,7 +15,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -38,7 +37,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -61,7 +59,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -84,7 +81,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -107,7 +103,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -130,7 +125,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -153,7 +147,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -176,7 +169,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -200,7 +192,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -223,7 +214,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -246,7 +236,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -270,7 +259,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -293,7 +281,6 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
@@ -316,12 +303,55 @@
 	{
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
-		"MaxSold": 10,
 		"Cost": 1000,
 		"Item":  
 		{
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Plant Wall Display"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Brine Shrimp Hatchery",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/brine_shrimp.png:0@10, assets/brine_shrimp.png:1@10, assets/brine_shrimp.png:2@10, assets/brine_shrimp.png:3@10",
+				"DisplaySize": { "X": 3, "Y": 4 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Brine Shrimp Hatchery"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Fish Hatchery",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/fish_hatchery.png:0@10, assets/fish_hatchery.png:1@10",
+				"DisplaySize": { "X": 3, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Fish Hatchery"
 		}
 	},
 ]
