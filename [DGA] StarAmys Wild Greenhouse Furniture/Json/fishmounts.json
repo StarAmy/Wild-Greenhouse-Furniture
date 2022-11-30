@@ -235,6 +235,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Angler Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:48",
@@ -247,6 +248,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Ms Angler Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:49",
@@ -259,6 +261,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Crimsonfish Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:50",
@@ -271,6 +274,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Son of Crimsonfish Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:51",
@@ -283,6 +287,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Mutant Carp Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:52",
@@ -295,6 +300,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Radioactive Carp Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:53",
@@ -307,6 +313,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Glacierfish Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:54",
@@ -319,6 +326,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Glacierfish Jr Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:55",
@@ -331,6 +339,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Legend Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:56",
@@ -343,6 +352,7 @@
 		"$ItemType": "Furniture",
 		"ID": "Legend Two Mount",
 		"Type": "Painting",
+		"ShowInCatalogue": false,
 		"Configurations": [
 			{
 				"Texture": "assets/fish_mounts.png:57",
