@@ -90,7 +90,7 @@
 			},
 			{
 				"Texture": "assets/bison.png:0",
-				"DisplaySize": { "X": 3, "Y": 2 },
+				"DisplaySize": { "X": 2, "Y": 2 },
 				"CollisionHeight": 1
 			},
 			{
@@ -105,7 +105,7 @@
 			},
 			{
 				"Texture": "assets/bison.png:1",
-				"DisplaySize": { "X": 3, "Y": 2 },
+				"DisplaySize": { "X": 2, "Y": 2 },
 				"CollisionHeight": 1
 			},
 		]
