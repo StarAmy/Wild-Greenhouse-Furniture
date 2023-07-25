@@ -463,5 +463,49 @@
 			"Value": "staramy.furniture/Lorikeet on Stand"
 		},
 		"Cost": 2000,
-	}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bird Bath",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/bird_bath.png",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "Carpenter",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Bird Bath"
+		},
+		"Cost": 800,
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bird Feeder",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/bird_feeder.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "Carpenter",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Bird Feeder"
+		},
+		"Cost": 600,
+	},
 ]

@@ -354,4 +354,92 @@
 			"Value": "staramy.furniture/Fish Hatchery"
 		}
 	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Kriesel Tank",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/kriesel.png:0@50, assets/kriesel.png:1@50, assets/kriesel.png:2@50, assets/kriesel.png:3@50, assets/kriesel.png:4@50, assets/kriesel.png:5@50, assets/kriesel.png:6@50, assets/kriesel.png:7@50",
+				"DisplaySize": { "X": 3, "Y": 3 },
+				"CollisionHeight": 3
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Kriesel Tank"
+		}
+	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Anchovy Tank",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/anchovies.png:0@15, assets/anchovies.png:1@15",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Anchovy Tank"
+		}
+	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Touch Tank",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/touch_tank.png:0@60, assets/touch_tank.png:1@60",
+				"DisplaySize": { "X": 3, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Touch Tank"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Frag Tank",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/frag_tank.png:0",
+				"DisplaySize": { "X": 3, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1000,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Frag Tank"
+		}
+	},
 ]

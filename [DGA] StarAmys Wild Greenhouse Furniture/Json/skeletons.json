@@ -184,4 +184,26 @@
 			"Value": "staramy.furniture/Wall Mounted Whale Skeleton"
 		}
 	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Gorilla",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "Assets/Gorilla.png:0@200, Assets/Gorilla.png:1@10, Assets/Gorilla.png:0@200, Assets/Gorilla.png:2@10, Assets/Gorilla.png:4@10, Assets/Gorilla.png:3@10, Assets/Gorilla.png:4@10, Assets/Gorilla.png:3@10, Assets/Gorilla.png:4@10, Assets/Gorilla.png:3@30",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 1200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Gorilla"
+		}
+	},
 ]

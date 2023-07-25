@@ -241,7 +241,7 @@
 			{
 				"Texture": "assets/wall_plant_four.png",
 				"DisplaySize": { "X": 1, "Y": 3 },
-				"CollisionHeight": 2
+				"CollisionHeight": 3
 			},
 
 		]
@@ -306,4 +306,74 @@
 			"Value": "staramy.furniture/Hanging Bat Box"
 		}
 	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wind Chimes",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/chimes.png:0@10",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 400,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Wind Chimes"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "PVC Pipes",
+		"Type": "Painting",
+		"Configurations": [
+			{
+                "Texture": "assets/vertical_pipes.png:0",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3
+            },
+            {
+                "Texture": "assets/horizontal_pipes.png:0",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/horizontal_pipes.png:1",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/horizontal_pipes.png:2",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/horizontal_pipes.png:3",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/vertical_pipes.png:1",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3
+            },
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/PVC Pipes"
+		}
+	},
+	
 ]
