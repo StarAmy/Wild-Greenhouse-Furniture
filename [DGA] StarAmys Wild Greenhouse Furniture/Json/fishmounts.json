@@ -361,4 +361,74 @@
 			},
 		]
 	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Arapaima Mount",
+		"Type": "Painting",
+		"ShowInCatalogue": true,
+		"Configurations": [
+			{
+				"Texture": "assets/arapaima_mount.png",
+				"DisplaySize": { "X": 4, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 800,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Arapaima Mount"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Paddlefish Mount",
+		"Type": "Painting",
+		"ShowInCatalogue": true,
+		"Configurations": [
+			{
+				"Texture": "assets/paddlefish_mount.png",
+				"DisplaySize": { "X": 4, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 800,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Paddlefish Mount"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wrasse Mount",
+		"Type": "Painting",
+		"ShowInCatalogue": true,
+		"Configurations": [
+			{
+				"Texture": "assets/wrasse_mount.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"Cost": 600,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Wrasse Mount"
+		}
+	},
+
 ]
